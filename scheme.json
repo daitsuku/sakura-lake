@@ -1,0 +1,23 @@
+{
+    "name": "Cherry Blossom Sakura Lake",
+    "background": "#1B1917",
+    "foreground": "#E6DFD3",
+    "cursorColor": "#D8959F",
+    "selectionBackground": "#6A5951",
+    "black": "#2E2A26",
+    "red": "#D8959F",
+    "green": "#9AA86B",
+    "yellow": "#D6B787",
+    "blue": "#7FA3B8",
+    "purple": "#BE8AA2",
+    "cyan": "#86B5AC",
+    "white": "#E6DFD3",
+    "brightBlack": "#4E493D",
+    "brightRed": "#EAB3BA",
+    "brightGreen": "#B3C084",
+    "brightYellow": "#E8D0A2",
+    "brightBlue": "#9DBCCD",
+    "brightPurple": "#D4A9BE",
+    "brightCyan": "#A4CFC6",
+    "brightWhite": "#F5EFE3"
+}

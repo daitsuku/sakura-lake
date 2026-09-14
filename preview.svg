@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280" viewBox="0 0 1280 1280" font-family="'JetBrainsMono Nerd Font','Hack Nerd Font','DejaVu Sans Mono','Cascadia Code',monospace">
+  <rect width="1280" height="1280" rx="16" fill="#12110F"/>
+
+  <!-- header -->
+  <text x="48" y="72" font-size="36" font-weight="bold" fill="#E6DFD3">Cherry Blossom Sakura Lake</text>
+  <text x="48" y="104" font-size="16" fill="#8A8073">dark terminal theme from three sakura wallpapers — all 16 ANSI colors + everyday use cases</text>
+  <text x="1232" y="72" font-size="14" text-anchor="end" fill="#8A8073">bg #1B1917 · fg #E6DFD3</text>
+
+  <!-- palette label -->
+  <text x="48" y="152" font-size="14" letter-spacing="3" fill="#8A8073">PALETTE</text>
+
+  <!-- row 1: normal -->
+  <g font-size="14">
+    <g><rect x="48" y="166" width="140" height="72" rx="8" fill="#2E2A26"/><text x="118" y="196" text-anchor="middle" fill="#F5EFE3">black</text><text x="118" y="220" text-anchor="middle" font-size="12" fill="#F5EFE3">#2E2A26</text></g>
+    <g><rect x="204" y="166" width="140" height="72" rx="8" fill="#D8959F"/><text x="274" y="196" text-anchor="middle" fill="#1B1917">red</text><text x="274" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#D8959F</text></g>
+    <g><rect x="360" y="166" width="140" height="72" rx="8" fill="#9AA86B"/><text x="430" y="196" text-anchor="middle" fill="#1B1917">green</text><text x="430" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#9AA86B</text></g>
+    <g><rect x="516" y="166" width="140" height="72" rx="8" fill="#D6B787"/><text x="586" y="196" text-anchor="middle" fill="#1B1917">yellow</text><text x="586" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#D6B787</text></g>
+    <g><rect x="672" y="166" width="140" height="72" rx="8" fill="#7FA3B8"/><text x="742" y="196" text-anchor="middle" fill="#1B1917">blue</text><text x="742" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#7FA3B8</text></g>
+    <g><rect x="828" y="166" width="140" height="72" rx="8" fill="#BE8AA2"/><text x="898" y="196" text-anchor="middle" fill="#1B1917">magenta</text><text x="898" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#BE8AA2</text></g>
+    <g><rect x="984" y="166" width="140" height="72" rx="8" fill="#86B5AC"/><text x="1054" y="196" text-anchor="middle" fill="#1B1917">cyan</text><text x="1054" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#86B5AC</text></g>
+    <g><rect x="1140" y="166" width="92" height="72" rx="8" fill="#E6DFD3"/><text x="1186" y="196" text-anchor="middle" fill="#1B1917">white</text><text x="1186" y="220" text-anchor="middle" font-size="12" fill="#1B1917">#E6DFD3</text></g>
+  </g>
+
+  <!-- row 2: bright -->
+  <g font-size="14">
+    <g><rect x="48" y="252" width="140" height="72" rx="8" fill="#4E493D"/><text x="118" y="282" text-anchor="middle" fill="#F5EFE3">br black</text><text x="118" y="306" text-anchor="middle" font-size="12" fill="#F5EFE3">#4E493D</text></g>
+    <g><rect x="204" y="252" width="140" height="72" rx="8" fill="#EAB3BA"/><text x="274" y="282" text-anchor="middle" fill="#1B1917">br red</text><text x="274" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#EAB3BA</text></g>
+    <g><rect x="360" y="252" width="140" height="72" rx="8" fill="#B3C084"/><text x="430" y="282" text-anchor="middle" fill="#1B1917">br green</text><text x="430" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#B3C084</text></g>
+    <g><rect x="516" y="252" width="140" height="72" rx="8" fill="#E8D0A2"/><text x="586" y="282" text-anchor="middle" fill="#1B1917">br yellow</text><text x="586" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#E8D0A2</text></g>
+    <g><rect x="672" y="252" width="140" height="72" rx="8" fill="#9DBCCD"/><text x="742" y="282" text-anchor="middle" fill="#1B1917">br blue</text><text x="742" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#9DBCCD</text></g>
+    <g><rect x="828" y="252" width="140" height="72" rx="8" fill="#D4A9BE"/><text x="898" y="282" text-anchor="middle" fill="#1B1917">br magenta</text><text x="898" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#D4A9BE</text></g>
+    <g><rect x="984" y="252" width="140" height="72" rx="8" fill="#A4CFC6"/><text x="1054" y="282" text-anchor="middle" fill="#1B1917">br cyan</text><text x="1054" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#A4CFC6</text></g>
+    <g><rect x="1140" y="252" width="92" height="72" rx="8" fill="#F5EFE3"/><text x="1186" y="282" text-anchor="middle" fill="#1B1917">br white</text><text x="1186" y="306" text-anchor="middle" font-size="12" fill="#1B1917">#F5EFE3</text></g>
+  </g>
+
+  <!-- accents -->
+  <text x="48" y="364" font-size="14" letter-spacing="3" fill="#8A8073">ACCENTS</text>
+  <g font-size="14">
+    <rect x="48" y="378" width="280" height="44" rx="8" fill="#6A5951"/><text x="188" y="406" text-anchor="middle" fill="#F5EFE3">selection #6A5951</text>
+    <rect x="344" y="378" width="280" height="44" rx="8" fill="#1B1917" stroke="#D8959F"/><text x="484" y="406" text-anchor="middle" fill="#D8959F">cursor #D8959F</text>
+  </g>
+
+  <!-- terminal window -->
+  <text x="48" y="462" font-size="14" letter-spacing="3" fill="#8A8073">IN USE</text>
+  <rect x="48" y="476" width="1184" height="746" rx="12" fill="#1B1917" stroke="#6A5951"/>
+  <rect x="48" y="476" width="1184" height="46" rx="12" fill="#2E2A26"/>
+  <rect x="48" y="500" width="1184" height="22" fill="#2E2A26"/>
+  <circle cx="78" cy="499" r="7" fill="#EAB3BA"/><circle cx="102" cy="499" r="7" fill="#E8D0A2"/><circle cx="126" cy="499" r="7" fill="#B3C084"/>
+  <text x="640" y="504" font-size="14" text-anchor="middle" fill="#8A8073">tdaitsuku — zsh</text>
+
+  <g font-size="16">
+    <text x="72" y="562"><tspan fill="#7FA3B8">~/petals</tspan><tspan fill="#E6DFD3"> on </tspan><tspan fill="#BE8AA2"> main</tspan><tspan fill="#9AA86B"> ❯ </tspan><tspan fill="#E6DFD3">eza -la</tspan></text>
+    <text x="72" y="592"><tspan fill="#7FA3B8">drwxr-xr-x  src</tspan><tspan fill="#E6DFD3">   Cargo.toml  </tspan><tspan fill="#9AA86B">run.sh*</tspan><tspan fill="#E6DFD3">  </tspan><tspan fill="#86B5AC">docs -&gt; ~/wiki</tspan></text>
+    <text x="72" y="622"><tspan fill="#7FA3B8">~/petals</tspan><tspan fill="#E6DFD3"> on </tspan><tspan fill="#BE8AA2"> main</tspan><tspan fill="#9AA86B"> ❯ </tspan><tspan fill="#E6DFD3">git diff</tspan></text>
+    <text x="72" y="652"><tspan fill="#D8959F">--- a/garden.py</tspan><tspan fill="#E6DFD3">    </tspan><tspan fill="#9AA86B">+++ b/garden.py</tspan></text>
+    <text x="72" y="682"><tspan fill="#86B5AC">@@ -12,7 +12,7 @@ def season():</tspan></text>
+    <text x="72" y="712"><tspan fill="#D8959F">-    return winter(path)</tspan></text>
+    <text x="72" y="742"><tspan fill="#9AA86B">+    return blossom(path)</tspan></text>
+    <text x="72" y="772"><tspan fill="#7FA3B8">~/petals</tspan><tspan fill="#E6DFD3"> on </tspan><tspan fill="#BE8AA2"> main</tspan><tspan fill="#9AA86B"> ❯ </tspan><tspan fill="#E6DFD3">git log --oneline -3</tspan></text>
+    <text x="72" y="802"><tspan fill="#BE8AA2">* </tspan><tspan fill="#D6B787">9f3c1a2 </tspan><tspan fill="#9AA86B">(HEAD -&gt; main) </tspan><tspan fill="#E6DFD3">Add spring palette</tspan></text>
+    <text x="72" y="832"><tspan fill="#BE8AA2">* </tspan><tspan fill="#D6B787">2a7c9d1 </tspan><tspan fill="#E6DFD3">Fix petal sorting on WSL</tspan></text>
+    <text x="72" y="862"><tspan fill="#BE8AA2">* </tspan><tspan fill="#D6B787">e4f5a6b </tspan><tspan fill="#E6DFD3">First blossom commit</tspan></text>
+    <text x="72" y="892"><tspan fill="#D8959F">def </tspan><tspan fill="#7FA3B8">blossom</tspan><tspan fill="#E6DFD3">(petals: </tspan><tspan fill="#D6B787">int</tspan><tspan fill="#E6DFD3">) -&gt; </tspan><tspan fill="#D6B787">str</tspan><tspan fill="#E6DFD3">:</tspan></text>
+    <text x="72" y="922"><tspan fill="#E6DFD3">    return </tspan><tspan fill="#9AA86B">"sakura"</tspan><tspan fill="#E6DFD3">  </tspan><tspan fill="#8A8073"># fresh debugging</tspan></text>
+    <text x="72" y="952"><tspan fill="#9AA86B">✓ build passed in 1.2s</tspan><tspan fill="#E6DFD3">    </tspan><tspan fill="#D8959F">✗ petals_test failed</tspan><tspan fill="#E6DFD3">    </tspan><tspan fill="#D6B787">⚠ 2 warnings</tspan></text>
+    <text x="72" y="982"><tspan fill="#E6DFD3">fetching petals  </tspan><tspan fill="#9AA86B">████████</tspan><tspan fill="#4E493D">░░</tspan><tspan fill="#E6DFD3">  80%</tspan></text>
+    <text x="72" y="1012"><tspan fill="#E6DFD3">cpu0 </tspan><tspan fill="#9AA86B">██████</tspan><tspan fill="#4E493D">░░░░</tspan><tspan fill="#E6DFD3"> 61%   cpu1 </tspan><tspan fill="#D6B787">████████</tspan><tspan fill="#4E493D">░░</tspan><tspan fill="#D6B787"> 83%</tspan></text>
+    <text x="72" y="1042"><tspan fill="#7FA3B8">~/petals</tspan><tspan fill="#E6DFD3"> on </tspan><tspan fill="#BE8AA2"> main</tspan><tspan fill="#9AA86B"> ❯ </tspan><tspan fill="#E6DFD3">ff</tspan></text>
+    <text x="72" y="1072"><tspan fill="#D8959F"></tspan><tspan fill="#E6DFD3">  Fedora Linux 44 (WSL) x86_64</tspan></text>
+    <text x="72" y="1102"><tspan fill="#D4A9BE">󰍛</tspan><tspan fill="#E6DFD3">  1.36 GiB / 7.41 GiB (18%)   </tspan><tspan fill="#9DBCCD"></tspan><tspan fill="#E6DFD3">  1.80 GiB / 1006 GiB (0%)</tspan></text>
+    <text x="72" y="1132"><tspan fill="#9AA86B">❯</tspan><tspan fill="#D8959F"> █</tspan></text>
+  </g>
+
+  <text x="48" y="1252" font-size="13" fill="#8A8073">Cherry Blossom Sakura Lake · preview.svg — open in a browser with a Nerd Font for full glyphs</text>
+</svg>

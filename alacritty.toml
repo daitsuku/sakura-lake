@@ -1,0 +1,36 @@
+# Cherry Blossom Sakura Lake — Alacritty theme
+# Sampled from three sakura wallpapers (see README.md for sources)
+# Merge into ~/.config/alacritty/alacritty.toml
+# (Alacritty >= 0.13 uses TOML; paste under your existing file or use as-is)
+
+[colors.primary]
+background = "#1B1917"
+foreground = "#E6DFD3"
+
+[colors.cursor]
+text = "#1B1917"
+cursor = "#D8959F"
+
+[colors.selection]
+text = "#F5EFE3"
+background = "#6A5951"
+
+[colors.normal]
+black = "#2E2A26"
+red = "#D8959F"
+green = "#9AA86B"
+yellow = "#D6B787"
+blue = "#7FA3B8"
+magenta = "#BE8AA2"
+cyan = "#86B5AC"
+white = "#E6DFD3"
+
+[colors.bright]
+black = "#4E493D"
+red = "#EAB3BA"
+green = "#B3C084"
+yellow = "#E8D0A2"
+blue = "#9DBCCD"
+magenta = "#D4A9BE"
+cyan = "#A4CFC6"
+white = "#F5EFE3"
