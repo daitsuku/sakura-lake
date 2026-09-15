@@ -147,6 +147,13 @@
       "highlight": {
         "added": "#444732",
         "removed": "#564142"
+      },
+      "lineNumber": {
+        "text": "#A89B85",
+        "background": {
+          "added": "#444732",
+          "removed": "#564142"
+        }
       }
     },
     "markdown": {
