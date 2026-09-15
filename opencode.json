@@ -64,8 +64,8 @@
     "background": {
       "default": "#1B1917",
       "surface": {
-        "offset": "#60523F",
-        "overlay": "#493E31"
+        "offset": "#1F1D1A",
+        "overlay": "#1F1D1A"
       },
       "action": {
         "primary": {
@@ -89,12 +89,12 @@
         }
       },
       "formfield": {
-        "default": "#4A3F32",
-        "$hovered": "#524636",
-        "$focused": "#60523F",
-        "$pressed": "#60523F",
-        "$disabled": "#3A342A",
-        "$selected": "#3E362C"
+        "default": "#1F1D1A",
+        "$hovered": "#24211C",
+        "$focused": "#2A251F",
+        "$pressed": "#2A251F",
+        "$disabled": "#1B1917",
+        "$selected": "#33291F"
       },
       "feedback": {
         "error": {
