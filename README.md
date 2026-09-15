@@ -41,6 +41,7 @@ Bright variants (`brightRed`–`brightCyan`) are ~one step lighter than their no
 | `alacritty.toml` | Alacritty (0.13+, TOML) |
 | `CherryBlossomSakuraLake.colorscheme` | Konsole |
 | `install-gnome-terminal.sh` | GNOME Terminal (via dconf, see below) |
+| `opencode.json` | OpenCode TUI theme — copy to `~/.config/opencode/themes/sakura-lake.json`, set `theme.name` to `sakura-lake` in `cli.json` |
 | `preview.svg` | Preview card — open in a browser (Nerd Font recommended) |
 
 ## Install
@@ -74,6 +75,26 @@ chmod +x install-gnome-terminal.sh
 ```
 
 Then pick the profile under *Preferences → Profiles*. Re-running is safe. Transparency is set to ~15% for a soft acrylic feel.
+
+### OpenCode
+
+```bash
+mkdir -p ~/.config/opencode/themes
+cp opencode.json ~/.config/opencode/themes/sakura-lake.json
+```
+
+Then in `~/.config/opencode/cli.json`:
+
+```json
+{
+  "theme": {
+    "name": "sakura-lake",
+    "mode": "dark"
+  }
+}
+```
+
+Takes effect on next TUI launch.
 
 ## Previews
 
