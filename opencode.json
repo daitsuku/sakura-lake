@@ -3,8 +3,20 @@
   "dark": {
     "hue": {
       "accent": "$hue.red",
-      "interactive": "$hue.blue"
+      "interactive": "$hue.blue",
+      "red": {
+        "100": "#F5E0E4",
+        "200": "#D8959F",
+        "300": "#C0737E",
+        "400": "#A95E69",
+        "500": "#924A55",
+        "600": "#783842",
+        "700": "#5F2B34",
+        "800": "#472027",
+        "900": "#30161B"
+      }
     },
+    "categorical": ["red", "purple", "green"],
     "text": {
       "default": "#E6DFD3",
       "subdued": "#A89B85",
