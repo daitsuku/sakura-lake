@@ -21,6 +21,8 @@ A dark terminal theme sampled from three sakura wallpapers — lake + blossom ca
 | cyan (shallow water) | `#86B5AC` | Lake gray-green `#76767C` |
 | selection | `#6A5951` | Measured rosewood, used as-is |
 | cursor | `#D8959F` | Sakura red |
+| input / panel base | `#60523F` | Warm gray-600 — input boxes and panels sit brighter than the bg, like builtin themes |
+| chat surface | `#493E31` | Warm gray-700 for message boxes |
 | bright black | `#4E493D` | Lifted umber |
 | bright white | `#F5EFE3` | Brightest petal |
 
