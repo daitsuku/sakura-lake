@@ -138,6 +138,11 @@
       "text": {
         "added": "#9AA86B",
         "removed": "#D8959F"
+      },
+      "background": {
+        "added": "#1F1D1A",
+        "removed": "#1F1D1A",
+        "context": "#1F1D1A"
       }
     },
     "markdown": {
