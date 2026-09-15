@@ -49,7 +49,7 @@
         "900": "#301D2E"
       }
     },
-    "categorical": ["red", "green", "purple", "blue"],
+    "categorical": ["red", "purple", "blue", "green"],
     "footer": {
       "categorical": ["red", "purple", "blue", "green"]
     },
