@@ -14,9 +14,23 @@
         "700": "#5F2B34",
         "800": "#472027",
         "900": "#30161B"
+      },
+      "green": {
+        "100": "#E8EBD6",
+        "200": "#9AA86B",
+        "300": "#87945E",
+        "400": "#74804F",
+        "500": "#626D43",
+        "600": "#515A38",
+        "700": "#40472D",
+        "800": "#303522",
+        "900": "#202419"
       }
     },
-    "categorical": ["red", "purple", "green"],
+    "categorical": ["red", "green", "purple"],
+    "footer": {
+      "categorical": ["red", "green", "purple"]
+    },
     "text": {
       "default": "#E6DFD3",
       "subdued": "#A89B85",
